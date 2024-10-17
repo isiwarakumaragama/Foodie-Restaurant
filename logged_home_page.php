@@ -123,7 +123,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["add_to_cart"])) {
     <div class="box-container">
 
         <div class="box">
-            <img class="image" src="images/f-img-1.jfif" alt="">
+            <img class="image" src="images/f-img-1.jpg" alt="">
             <div class="content">
                 <img src="images/s-1.png" alt="">
                 <h3>tasty burger</h3>
@@ -132,7 +132,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["add_to_cart"])) {
             </div>
         </div>
         <div class="box">
-            <img class="image" src="images/f-img-2.jfif" alt="">
+            <img class="image" src="images/f-img-2.jpg" alt="">
             <div class="content">
                 <img src="images/s-2.png" alt="">
                 <h3>tasty pizza</h3>
@@ -142,7 +142,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["add_to_cart"])) {
         </div>
 
         <div class="box">
-            <img class="image" src="images/f-img-3.1.jpeg" alt="">
+            <img class="image" src="images/f-img-3.1.jpg" alt="">
             <div class="content">
                 <img src="images/s-3.png" alt="">
                 <h3>Fruit & Vegitable Juice</h3>
@@ -151,7 +151,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["add_to_cart"])) {
             </div>
         </div>
         <div class="box">
-            <img class="image" src="images/f-img-4.jfif" alt="">
+            <img class="image" src="images/f-img-4.jpg" alt="">
             <div class="content">
                 <img src="images/s-4.png" alt="">
                 <h3>trendy fast foods</h3>

@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="signup.css">
+  <link rel="stylesheet" href="css/signup.css">
   <title>SignUp Page</title>
 </head>
 <body>
   <div class="container">
-    <form id="loginForm" action = "user_registration.php" method = "post">
+    <form id="loginForm" action = "user_signup.php" method = "post">
       <h2>SignUp</h2>
       <label for="username">First Name:</label>
       <input type="text" id="username" name="firstname" required>
